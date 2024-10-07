@@ -37,3 +37,7 @@ let branch='mca'
 
 
 console.log(`my name is${name} living ${city}  i am ${age}years old and roll no is${roll} at${clg} in ${branch}`);
+
+
+
+console.log(city.length);
