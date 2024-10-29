@@ -1,0 +1,19 @@
+
+#notification {
+    display: none;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 15px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+button {
+    margin: 50px;
+    padding: 10px 20px;
+    background:azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
